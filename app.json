@@ -1,7 +1,7 @@
 {
-  "name": "سـورس تيبـثون - 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗦𝗘𝗧𝗨𝗣",
+  "name": "سـورس الزعيم -  𝗦𝗘𝗧𝗨𝗣",
   "description": "أهـلًا بـك في لوحـة تنصيـب سورس تيبثـون .",
-  "logo": "https://telegra.ph/file/29bcb10b5acb88fb9a489.jpg",
+  "logo": "https://graph.org/file/dd94c8342ad5db2696191.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/Tepthonee/PPF22",
+      "value": "https://github.com/apdelelem123/PPF22",
       "required": false
     }
     },
